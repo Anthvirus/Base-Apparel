@@ -23,7 +23,7 @@ main{
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(10, 1fr);
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans' sans-serif;
     background-size: inherit;
 }
 header{
